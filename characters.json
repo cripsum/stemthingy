@@ -1,0 +1,15 @@
+{
+    "question": "Il tuo personaggio è morto?",
+    "answers": {
+        "Si": {
+            "answer": "Steven Hawkings"
+        },
+        "No": {
+            "question": "xxx",
+            "answers": {
+                "a": "b",
+                "c": "d"
+            }
+        }
+    }
+}
